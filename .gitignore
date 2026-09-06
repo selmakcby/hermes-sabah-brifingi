@@ -1,0 +1,8 @@
+# API anahtarlari asla depoya girmez
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+.DS_Store

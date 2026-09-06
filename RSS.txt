@@ -1,0 +1,20 @@
+# RSS kaynak listesi — sabah brifingi
+#
+# Her satıra bir feed adresi yaz.
+# Boş satırlar ve # ile başlayan satırlar atlanır.
+# Satır sonuna "  # etiket" şeklinde not düşebilirsin.
+#
+# Örnekler (kullanmak istersen başındaki # işaretini kaldır):
+
+https://openai.com/blog/rss.xml                          # OpenAI
+https://www.anthropic.com/rss.xml                        # Anthropic
+https://deepmind.google/blog/rss.xml                     # DeepMind
+https://huggingface.co/blog/feed.xml                     # HuggingFace
+https://techcrunch.com/category/artificial-intelligence/feed/
+https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+https://webrazzi.com/feed/                               # TR teknoloji
+
+https://hnrss.org/newest?q=AI+agent          # Hacker News — AI araması
+https://simonwillison.net/atom/everything/   # Simon Willison — AI blog
+# takip ettiğin bültenlerin RSS adresleri (genelde site.com/feed veya site.com/rss)
+# --- kendi kaynaklarını buradan aşağıya ekle ---
