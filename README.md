@@ -1,3 +1,5 @@
+![Sabah Brifingi — Hermes Agent + Hostinger VPS](docs/kapak.png)
+
 # Sabah Brifingi — Hermes Agent + Hostinger VPS
 
 Her sabah 05:30'da uyanan, X'i ve RSS kaynaklarını tarayıp tek bir Türkçe
